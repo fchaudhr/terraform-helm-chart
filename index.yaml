@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  terraform:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2023-09-01T17:24:24.285213592+04:00"
+    description: A Helm chart for terraform
+    digest: 8f0927c4d8a269154cbb8c66179390dcacd1c67a82d29fbe4e827b5936f1eaf0
+    name: terraform
+    type: application
+    urls:
+    - https://fchaudhr.github.io/terraform-helm-chart/terraform-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-01T17:24:24.284514969+04:00"
